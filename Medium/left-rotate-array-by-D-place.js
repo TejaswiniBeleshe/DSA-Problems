@@ -21,3 +21,4 @@ let leftRotateArray = (arr,d)=>{
 
 let res = leftRotateArray(arr,d)
 console.log(res)
+
